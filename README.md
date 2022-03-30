@@ -7,7 +7,7 @@ Este es un cotizador de criptomonedas en tiempo real consumiento un API.
  
  
 
-- React(useState, useEffect, custom Hooks)
+- React(useState, useEffect, custom Hooks)(Vite)
 - API consumption and Data consumption
 - Styled Components
 - Spinner(Loading) 
